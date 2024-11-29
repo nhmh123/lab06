@@ -1,2 +1,3 @@
 start
 master lan 1
+master lan 2
