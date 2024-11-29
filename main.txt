@@ -1,2 +1,3 @@
 start
 os1 lan 1
+os1 lan 2
