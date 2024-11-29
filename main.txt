@@ -1,1 +1,2 @@
 start
+os1 lan 1
